@@ -6,7 +6,7 @@ var router = express.Router();
 passport.use(new GoogleStrategy({
 	clientID: process.env.clientID,
 	clientSecret: process.env.clientSecret,
-	callbackURL: "https://rainbowblooming.herokuapp.com/auth/google/callback"
+	callbackURL: "https://chiahao-gantt.herokuapp.com/auth/google/callback"
 	},
 	function(accessToken, refreshToken, profile, done) {
 		console.log();
