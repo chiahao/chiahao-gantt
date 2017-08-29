@@ -1,5 +1,5 @@
 {
-  "name": "rainbowblooming.github.io",
+  "name": "chiahao-gantt",
   "version": "1.0.0",
   "description": "some app for rainbowblooming",
   "main": "index.js",
@@ -11,21 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rainbowblooming/rainbowblooming.github.io.git"
+    "url": "git+https://github.com/chiahao/chiahao-gantt.git"
   },
   "keywords": [
-    "rainbow",
-    "rainbowblooming",
-    "gay",
-    "marriage",
-    "equality"
+    "gantt",
+    "gantt-chart"
   ],
   "author": "hao",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rainbowblooming/rainbowblooming.github.io/issues"
+    "url": "https://github.com/chiahao/chiahao-gantt/issues"
   },
-  "homepage": "https://github.com/rainbowblooming/rainbowblooming.github.io#readme",
+  "homepage": "https://github.com/chiahao/chiahao-gantt#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "connect-pg-simple": "^4.2.0",
